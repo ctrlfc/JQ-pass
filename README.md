@@ -1,2 +1,2 @@
-# JQ-pass
+# JQueryDemo
 some JQ_effect
